@@ -1,0 +1,18 @@
+playa;carpas_instaladas;año;mes;día
+Playa Bisiesta;30;2028;2;29
+Playa Febrero;30;2026;2;29
+Playa Trece;30;2026;13;1
+Playa Cero;30;2026;11;0
+Playa Año Cero;30;0;11;1
+   ;30;2026;11;1
+ Playa Bisiesta ;40;2026;11;1
+Playa Decimal;10.5;2026;11;1
+Playa Negativa;-5;2026;11;1
+Playa Signo;+015;2026;11;1
+Playa Extra;10;2026;11;1;
+   
+Playa Vacía;;2026;11;1
+Playa Fin;5;9999;12;31
+Playa Orden;0;2026;2;30
+;cero;2026;11;1
+Playa Fin;x;2026;11;1
