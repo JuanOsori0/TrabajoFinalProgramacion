@@ -1,61 +1,7 @@
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 2
-
---- Registrar el día siguiente ---
-Nombre de la playa: Playa Blanca
-Error: no hay una playa con ese nombre.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 3
-
---- Simular días ---
-Nombre de la playa: Playa Blanca
-Error: no hay una playa con ese nombre.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 4
-
---- Informe de una playa ---
-Nombre de la playa: Playa Blanca
-Error: no hay una playa con ese nombre.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 7
-Hasta luego.
+2
+Playa Blanca
+3
+Playa Blanca
+4
+Playa Blanca
+7

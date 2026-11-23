@@ -1,67 +1,12 @@
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 1
-
---- Crear playa ---
-Nombre de la playa: Playa Fin
-Carpas instaladas: 5
-Año de inicio del registro: 9999
-Mes de inicio del registro: 12
-Día de inicio del registro: 31
-Playa creada, sin días registrados.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 2
-
---- Registrar el día siguiente ---
-Nombre de la playa: Playa Fin
-Día que se va a registrar: 9999-12-31
-Carpas alquiladas: 1
-Día registrado.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 2
-
---- Registrar el día siguiente ---
-Nombre de la playa: Playa Fin
-Error: El registro de la playa ya llegó a la última fecha del calendario (9999-12-31).
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 7
-Hasta luego.
+1
+Playa Fin
+5
+9999
+12
+31
+2
+Playa Fin
+1
+2
+Playa Fin
+7

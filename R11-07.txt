@@ -1,85 +1,14 @@
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 6
-
---- Cargar desde archivos ---
-Ruta del archivo de playas: datos/playas_empates.csv
-Playas cargadas: 4
-Ruta del archivo de alquileres: datos/alquileres_empates.csv
-Días cargados: 4
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 1
-
---- Crear playa ---
-Nombre de la playa: Playa Nueva
-Carpas instaladas: 2
-Año de inicio del registro: 2026
-Mes de inicio del registro: 11
-Día de inicio del registro: 1
-Playa creada, sin días registrados.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 2
-
---- Registrar el día siguiente ---
-Nombre de la playa: Playa Nueva
-Día que se va a registrar: 2026-11-01
-Carpas alquiladas: 1
-Día registrado.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 5
-
---- Playas con mayor y menor porcentaje de alquiler ---
-Mayor porcentaje: Playa Este, 80.0 %
-Menor porcentaje: Playa Norte, 50.0 %
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 7
-Hasta luego.
+6
+datos/playas_empates.csv
+datos/alquileres_empates.csv
+1
+Playa Nueva
+2
+2026
+11
+1
+2
+Playa Nueva
+1
+5
+7

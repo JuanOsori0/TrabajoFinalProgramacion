@@ -1,62 +1,6 @@
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 6
-
---- Cargar desde archivos ---
-Ruta del archivo de playas: datos/playas_indicadores.csv
-Playas cargadas: 10
-Ruta del archivo de alquileres: datos/alquileres_indicadores.csv
-Días cargados: 45
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 4
-
---- Informe de una playa ---
-Nombre de la playa: Playa Todo Agotado
-Playa: Playa Todo Agotado
-Carpas instaladas: 10
-Días registrados: 3
-Alquileres totales: 30
-Promedio de carpas alquiladas por día: 10.0
-Porcentaje de alquiler: 100.0 %
-Desviación estándar: 0.0
-Día con más carpas alquiladas: 2026-11-01
-Día con menos carpas alquiladas: 2026-11-01
-Días en nivel Bajo: 0
-Días en nivel Medio: 0
-Días en nivel Alto: 0
-Días en nivel Agotado: 3
-Racha más larga en nivel Agotado: 3 días, empieza el 2026-11-01
-Último día registrado: 2026-11-03
-{faltan:2026-11-03}
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 7
-Hasta luego.
+6
+datos/playas_indicadores.csv
+datos/alquileres_indicadores.csv
+4
+Playa Todo Agotado
+7

@@ -1,0 +1,4 @@
+6
+datos/playas_ejemplo.csv
+datos
+7

@@ -1,47 +1,6 @@
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 6
-
---- Cargar desde archivos ---
-Ruta del archivo de playas: datos/playas_varias.csv
-Playas cargadas: 4
-Ruta del archivo de alquileres: datos/alquileres_varias.csv
-Días cargados: 10
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 4
-
---- Informe de una playa ---
-Nombre de la playa: Playa Mansa
-Error: no hay una playa con ese nombre.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 7
-Hasta luego.
+6
+datos/playas_varias.csv
+datos/alquileres_varias.csv
+4
+Playa Mansa
+7

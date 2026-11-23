@@ -1,87 +1,16 @@
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 1
-
---- Crear playa ---
-Nombre de la playa: Playa Febrero
-Carpas instaladas: 10
-Año de inicio del registro: 2028
-Mes de inicio del registro: 2
-Día de inicio del registro: 28
-Playa creada, sin días registrados.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 2
-
---- Registrar el día siguiente ---
-Nombre de la playa: Playa Febrero
-Día que se va a registrar: 2028-02-28
-Carpas alquiladas: 1
-Día registrado.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 2
-
---- Registrar el día siguiente ---
-Nombre de la playa: Playa Febrero
-Día que se va a registrar: 2028-02-29
-Carpas alquiladas: 1
-Día registrado.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 2
-
---- Registrar el día siguiente ---
-Nombre de la playa: Playa Febrero
-Día que se va a registrar: 2028-03-01
-Carpas alquiladas: 1
-Día registrado.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 7
-Hasta luego.
+1
+Playa Febrero
+10
+2028
+2
+28
+2
+Playa Febrero
+1
+2
+Playa Febrero
+1
+2
+Playa Febrero
+1
+7

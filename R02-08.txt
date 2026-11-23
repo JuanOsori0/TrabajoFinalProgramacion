@@ -1,92 +1,10 @@
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 6
-
---- Cargar desde archivos ---
-Ruta del archivo de playas: datos/playas_ejemplo.csv
-Línea 4 descartada: La playa debe tener al menos una carpa instalada.
-Línea 5 descartada: La línea no tiene cinco campos.
-Línea 6 descartada: Las carpas instaladas deben ser un número entero.
-Línea 7 descartada: Ya existe una playa con ese nombre.
-Línea 8 descartada: La fecha no es válida.
-Playas cargadas: 2
-Ruta del archivo de alquileres: datos/alquileres_ejemplo.csv
-Línea 10 descartada: Las carpas alquiladas van de 0 a 60.
-Línea 12 descartada: No hay una playa llamada Playa Azul.
-Línea 13 descartada: Las carpas alquiladas van de 0 a 120.
-Línea 14 descartada: Las carpas alquiladas deben ser un número entero.
-Línea 15 descartada: La línea no tiene dos campos.
-Días cargados: 9
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 2
-
---- Registrar el día siguiente ---
-Nombre de la playa: Playa Grande
-Día que se va a registrar: 2026-11-05
-Carpas alquiladas: 61
-Error: Las carpas alquiladas van de 0 a 60.
-Carpas alquiladas: 60
-Día registrado.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 4
-
---- Informe de una playa ---
-Nombre de la playa: Playa Grande
-Playa: Playa Grande
-Carpas instaladas: 60
-Días registrados: 5
-Alquileres totales: 215
-Promedio de carpas alquiladas por día: 43.0
-Porcentaje de alquiler: 71.67 %
-Desviación estándar: 16.0
-Día con más carpas alquiladas: 2026-11-03
-Día con menos carpas alquiladas: 2026-11-04
-Días en nivel Bajo: 1
-Días en nivel Medio: 1
-Días en nivel Alto: 1
-Días en nivel Agotado: 2
-Racha más larga en nivel Agotado: 1 día, empieza el 2026-11-03
-Último día registrado: 2026-11-05
-{faltan:2026-11-05}
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 7
-Hasta luego.
+6
+datos/playas_ejemplo.csv
+datos/alquileres_ejemplo.csv
+2
+Playa Grande
+61
+60
+4
+Playa Grande
+7

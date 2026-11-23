@@ -1,82 +1,12 @@
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 1
-
---- Crear playa ---
-Nombre de la playa: Playa Hoy
-Carpas instaladas: 10
-Año de inicio del registro: {año:hoy}
-Mes de inicio del registro: {mes:hoy}
-Día de inicio del registro: {dia:hoy}
-Playa creada, sin días registrados.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 2
-
---- Registrar el día siguiente ---
-Nombre de la playa: Playa Hoy
-Día que se va a registrar: {hoy}
-Carpas alquiladas: 5
-Día registrado.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 4
-
---- Informe de una playa ---
-Nombre de la playa: Playa Hoy
-Playa: Playa Hoy
-Carpas instaladas: 10
-Días registrados: 1
-Alquileres totales: 5
-Promedio de carpas alquiladas por día: 5.0
-Porcentaje de alquiler: 50.0 %
-Desviación estándar: 0.0
-Día con más carpas alquiladas: {hoy}
-Día con menos carpas alquiladas: {hoy}
-Días en nivel Bajo: 0
-Días en nivel Medio: 1
-Días en nivel Alto: 0
-Días en nivel Agotado: 0
-No hubo ningún día en nivel Agotado.
-Último día registrado: {hoy}
-{faltan:hoy}
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 7
-Hasta luego.
+1
+Playa Hoy
+10
+{año:hoy}
+{mes:hoy}
+{dia:hoy}
+2
+Playa Hoy
+5
+4
+Playa Hoy
+7

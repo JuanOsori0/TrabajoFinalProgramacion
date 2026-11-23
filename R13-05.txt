@@ -1,0 +1,6 @@
+6
+datos/playas_con_vacias.csv
+datos/alquileres_codificacion_incorrecta.csv
+4
+Bahía Concha
+7

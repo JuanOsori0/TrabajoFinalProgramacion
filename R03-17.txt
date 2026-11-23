@@ -1,83 +1,14 @@
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 1
-
---- Crear playa ---
-Nombre de la playa: Playa Futura
-Carpas instaladas: 10
-Año de inicio del registro: {año:hoy-1}
-Mes de inicio del registro: {mes:hoy-1}
-Día de inicio del registro: {dia:hoy-1}
-Playa creada, sin días registrados.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 3
-
---- Simular días ---
-Nombre de la playa: Playa Futura
-¿Cuántos días quieres simular? 5
-Mínimo de carpas alquiladas: 3
-Máximo de carpas alquiladas: 3
-Se simularon 5 días para la playa Playa Futura.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 4
-
---- Informe de una playa ---
-Nombre de la playa: Playa Futura
-Playa: Playa Futura
-Carpas instaladas: 10
-Días registrados: 5
-Alquileres totales: 15
-Promedio de carpas alquiladas por día: 3.0
-Porcentaje de alquiler: 30.0 %
-Desviación estándar: 0.0
-Día con más carpas alquiladas: {hoy-1}
-Día con menos carpas alquiladas: {hoy-1}
-Días en nivel Bajo: 5
-Días en nivel Medio: 0
-Días en nivel Alto: 0
-Días en nivel Agotado: 0
-No hubo ningún día en nivel Agotado.
-Último día registrado: {hoy+3}
-{faltan:hoy+3}
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 7
-Hasta luego.
+1
+Playa Futura
+10
+{año:hoy-1}
+{mes:hoy-1}
+{dia:hoy-1}
+3
+Playa Futura
+5
+3
+3
+4
+Playa Futura
+7

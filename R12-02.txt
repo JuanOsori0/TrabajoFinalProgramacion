@@ -1,52 +1,6 @@
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 6
-
---- Cargar desde archivos ---
-Ruta del archivo de playas: datos/playas_con_vacias.csv
-Línea 5 descartada: El nombre no puede estar vacío.
-Línea 6 descartada: La línea no tiene cinco campos.
-Línea 8 descartada: La fecha no es válida.
-Playas cargadas: 3
-Ruta del archivo de alquileres: datos/alquileres_encabezado.csv
-Días cargados: 0
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 4
-
---- Informe de una playa ---
-Nombre de la playa: Playa Tres
-Playa: Playa Tres
-Carpas instaladas: 10
-La playa no tiene días registrados.
-
-=====================================
- Registro de carpas en las playas
-=====================================
-1. Crear playa
-2. Registrar el día siguiente de una playa
-3. Simular días de una playa
-4. Informe de una playa
-5. Playas con mayor y menor porcentaje de alquiler
-6. Cargar playas y alquileres desde archivos
-7. Salir
-Elige una opción: 7
-Hasta luego.
+6
+datos/playas_con_vacias.csv
+datos/alquileres_encabezado.csv
+4
+Playa Tres
+7
