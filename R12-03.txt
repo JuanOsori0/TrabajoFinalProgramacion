@@ -1,0 +1,62 @@
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 6
+
+--- Cargar desde archivos ---
+Ruta del archivo de playas: datos/playas_limites.csv
+Línea 3 descartada: La fecha no es válida.
+Línea 4 descartada: La fecha no es válida.
+Línea 5 descartada: La fecha no es válida.
+Línea 6 descartada: La fecha no es válida.
+Línea 7 descartada: El nombre no puede estar vacío.
+Línea 8 descartada: Ya existe una playa con ese nombre.
+Línea 9 descartada: Las carpas instaladas deben ser un número entero.
+Línea 10 descartada: La playa debe tener al menos una carpa instalada.
+Línea 12 descartada: La línea no tiene cinco campos.
+Línea 14 descartada: Las carpas instaladas deben ser un número entero.
+Línea 16 descartada: La playa debe tener al menos una carpa instalada.
+Línea 17 descartada: El nombre no puede estar vacío.
+Línea 18 descartada: Ya existe una playa con ese nombre.
+Playas cargadas: 3
+Ruta del archivo de alquileres: datos/alquileres_encabezado.csv
+Días cargados: 0
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 4
+
+--- Informe de una playa ---
+Nombre de la playa: Playa Signo
+Playa: Playa Signo
+Carpas instaladas: 15
+La playa no tiene días registrados.
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 7
+Hasta luego.

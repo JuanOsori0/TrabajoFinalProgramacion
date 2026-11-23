@@ -1,0 +1,93 @@
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 1
+
+--- Crear playa ---
+Nombre de la playa: Playa A
+Carpas instaladas: 10
+Año de inicio del registro: 2026
+Mes de inicio del registro: 2
+Día de inicio del registro: 29
+Error: La fecha no es válida.
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 1
+
+--- Crear playa ---
+Nombre de la playa: Playa A
+Carpas instaladas: 10
+Año de inicio del registro: 2026
+Mes de inicio del registro: 13
+Día de inicio del registro: 1
+Error: La fecha no es válida.
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 1
+
+--- Crear playa ---
+Nombre de la playa: Playa A
+Carpas instaladas: 10
+Año de inicio del registro: 2026
+Mes de inicio del registro: 11
+Día de inicio del registro: 0
+Error: La fecha no es válida.
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 1
+
+--- Crear playa ---
+Nombre de la playa: Playa A
+Carpas instaladas: 10
+Año de inicio del registro: 0
+Mes de inicio del registro: 11
+Día de inicio del registro: 1
+Error: La fecha no es válida.
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 7
+Hasta luego.

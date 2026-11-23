@@ -1,0 +1,51 @@
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 1
+
+--- Crear playa ---
+Nombre de la playa:   Playa Mansa  
+Carpas instaladas: 20
+Año de inicio del registro: 2026
+Mes de inicio del registro: 11
+Día de inicio del registro: 1
+Playa creada, sin días registrados.
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 4
+
+--- Informe de una playa ---
+Nombre de la playa: Playa Mansa
+Playa: Playa Mansa
+Carpas instaladas: 20
+La playa no tiene días registrados.
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 7
+Hasta luego.

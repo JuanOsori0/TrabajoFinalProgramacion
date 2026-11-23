@@ -1,0 +1,83 @@
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 1
+
+--- Crear playa ---
+Nombre de la playa: Bahía Concha
+Carpas instaladas: 50
+Año de inicio del registro: 2026
+Mes de inicio del registro: 11
+Día de inicio del registro: 1
+Playa creada, sin días registrados.
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 3
+
+--- Simular días ---
+Nombre de la playa: Bahía Concha
+¿Cuántos días quieres simular? 3
+Mínimo de carpas alquiladas: 25
+Máximo de carpas alquiladas: 25
+Se simularon 3 días para la playa Bahía Concha.
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 4
+
+--- Informe de una playa ---
+Nombre de la playa: Bahía Concha
+Playa: Bahía Concha
+Carpas instaladas: 50
+Días registrados: 3
+Alquileres totales: 75
+Promedio de carpas alquiladas por día: 25.0
+Porcentaje de alquiler: 50.0 %
+Desviación estándar: 0.0
+Día con más carpas alquiladas: 2026-11-01
+Día con menos carpas alquiladas: 2026-11-01
+Días en nivel Bajo: 0
+Días en nivel Medio: 3
+Días en nivel Alto: 0
+Días en nivel Agotado: 0
+No hubo ningún día en nivel Agotado.
+Último día registrado: 2026-11-03
+{faltan:2026-11-03}
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 7
+Hasta luego.

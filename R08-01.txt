@@ -1,0 +1,62 @@
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 6
+
+--- Cargar desde archivos ---
+Ruta del archivo de playas: datos/playas_indicadores.csv
+Playas cargadas: 10
+Ruta del archivo de alquileres: datos/alquileres_indicadores.csv
+Días cargados: 45
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 4
+
+--- Informe de una playa ---
+Nombre de la playa: Playa Rachas
+Playa: Playa Rachas
+Carpas instaladas: 120
+Días registrados: 7
+Alquileres totales: 698
+Promedio de carpas alquiladas por día: 99.71
+Porcentaje de alquiler: 83.1 %
+Desviación estándar: 31.32
+Día con más carpas alquiladas: 2026-11-05
+Día con menos carpas alquiladas: 2026-11-07
+Días en nivel Bajo: 1
+Días en nivel Medio: 1
+Días en nivel Alto: 0
+Días en nivel Agotado: 5
+Racha más larga en nivel Agotado: 3 días, empieza el 2026-11-04
+Último día registrado: 2026-11-07
+{faltan:2026-11-07}
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 7
+Hasta luego.

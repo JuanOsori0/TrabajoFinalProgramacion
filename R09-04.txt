@@ -1,0 +1,66 @@
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 6
+
+--- Cargar desde archivos ---
+Ruta del archivo de playas: datos/playas_con_vacias.csv
+Línea 5 descartada: El nombre no puede estar vacío.
+Línea 6 descartada: La línea no tiene cinco campos.
+Línea 8 descartada: La fecha no es válida.
+Playas cargadas: 3
+Ruta del archivo de alquileres: datos/alquileres_con_espacios.csv
+Línea 6 descartada: No hay una playa llamada playa uno.
+Días cargados: 3
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 4
+
+--- Informe de una playa ---
+Nombre de la playa: Playa Uno
+Playa: Playa Uno
+Carpas instaladas: 10
+Días registrados: 1
+Alquileres totales: 5
+Promedio de carpas alquiladas por día: 5.0
+Porcentaje de alquiler: 50.0 %
+Desviación estándar: 0.0
+Día con más carpas alquiladas: 2099-11-01
+Día con menos carpas alquiladas: 2099-11-01
+Días en nivel Bajo: 0
+Días en nivel Medio: 1
+Días en nivel Alto: 0
+Días en nivel Agotado: 0
+No hubo ningún día en nivel Agotado.
+Último día registrado: 2099-11-01
+{faltan:2099-11-01}
+
+=====================================
+ Registro de carpas en las playas
+=====================================
+1. Crear playa
+2. Registrar el día siguiente de una playa
+3. Simular días de una playa
+4. Informe de una playa
+5. Playas con mayor y menor porcentaje de alquiler
+6. Cargar playas y alquileres desde archivos
+7. Salir
+Elige una opción: 7
+Hasta luego.
